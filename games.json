@@ -1700,13 +1700,14 @@
         "logo": "",
         "native": false,
         "status": "Broken",
-        "reference": "",
+        "reference": "https://www.gamingonlinux.com/2023/01/fix-ghost-recon-breakpoint-on-steam-deck/",
         "anticheats": [
             "BattlEye"
         ],
         "notes": [],
         "updates": [],
         "storeIds": {
+            "steam": "2231380"
             "epic": {
                 "namespace": "2dbd2f64abdc4bbab077424d5c85e01b",
                 "slug": "ghost-recon-breakpoint"
